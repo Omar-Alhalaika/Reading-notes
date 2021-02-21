@@ -12,3 +12,4 @@ In this Repo. we gonna talk about different topics:
 * `Groth Mindset`:  [My point of view](https://omar-alhalaika.github.io/Reading-notes/Growth%20Mindset)
 * `Who am I?`:  [Omar Alhalaika](https://omar-alhalaika.github.io/Reading-notes/Omar%20profile)
  
+** Feel free to follow [my GitHub account](https://github.com/Omar-Alhalaika)
