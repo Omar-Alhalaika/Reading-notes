@@ -6,9 +6,9 @@
 In this Repo. we gonna talk about different topics: 
 
 
-* `Git`
-* `Github`
-* `Markdown`
-* `Groth Mindset`
-* `Who am I?`
+* `Git` [What is Git] ()
+* `Github` [Is GitHub the same as Git!] ()
+* `Markdown` [The simple Markdown] ()
+* `Groth Mindset` [My point of view] ()
+* `Who am I?` [Omar Alhalaika] ()
  
