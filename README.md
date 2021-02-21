@@ -6,9 +6,9 @@
 In this Repo. we gonna talk about different topics: 
 
 
-* `Git`:  [What is Git](https://omar-alhalaika.github.io/Reading-notes/Git.md)
-* `Github`:  [Is GitHub the same as Git!](https://omar-alhalaika.github.io/Reading-notes/GitHub.md)
-* `Markdown`:  [The simple Markdown](https://omar-alhalaika.github.io/Reading-notes/Markdown.md)
-* `Groth Mindset`:  [My point of view](https://omar-alhalaika.github.io/Reading-notes/Growth%20Mindset.md)
-* `Who am I?`:  [Omar Alhalaika]()
+* `Git`:  [What is Git](https://omar-alhalaika.github.io/Reading-notes/Git)
+* `Github`:  [Is GitHub the same as Git!](https://omar-alhalaika.github.io/Reading-notes/GitHub)
+* `Markdown`:  [The simple Markdown](https://omar-alhalaika.github.io/Reading-notes/Markdown)
+* `Groth Mindset`:  [My point of view](https://omar-alhalaika.github.io/Reading-notes/Growth%20Mindset)
+* `Who am I?`:  [Omar Alhalaika](https://omar-alhalaika.github.io/Reading-notes/Omar%20profile)
  
