@@ -5,10 +5,10 @@
 
 In this Repo. we gonna talk about different topics: 
 
-```
-* Git
-* Github
-* Markdown
-* Groth Mindset
-* Who am I?
-```
+
+* `Git`
+* `Github`
+* `Markdown`
+* `Groth Mindset`
+* `Who am I?`
+ 
