@@ -20,3 +20,6 @@ So a `Growth Mindset`it is how we:
 And for sure being ispired by others and how they make it and support however needs support.
 
 ## `Be Kind and Supportive`
+
+
+![WE CAN](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
