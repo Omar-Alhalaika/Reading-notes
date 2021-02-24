@@ -26,3 +26,11 @@ The first expression is false, because the string 'yellow' is not the same (eq
 The second expression is true, because the number 4 is greater than or equal to 4.
 
 The && operator requires that both expressions be true in order for the expression to be truthy. Because one expression is false and the other is true, the expression is falsy and evaluates to false.
+
+For Loops
+Probably the most common type of loop, for loops, are great for when you already know how many times you want to loop through something. When using a for loop, we typically use a counter that will either increment or decrement until a condition is met. Once the condition is met, the loop will stop. The image below should give you a basic understanding of how a for loop works.
+
+
+While Loops
+A while loop is slightly different than a for loop for the fact that it’s good to use when we don’t know how many times we want to loop through a problem beforehand. This is the key difference between using a for loop or a while loop. To get a basic idea of how a while loop works, take a look at the image below
+
